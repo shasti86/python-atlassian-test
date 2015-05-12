@@ -15,9 +15,12 @@ lib
 # Unit test / coverage reports
 .coverage
 coverage.xml
-.tox
 nosetests.xml
 
 # Mr Developer
 .project
 .pydevproject
+
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
