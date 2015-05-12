@@ -1,6 +1,6 @@
 Atlassian Chat Message Decoder
 ==============================
-This is micro utility that accepts a chat message via CLI and parse the names, emoticons, links and titles of the website. This will return a string (a valid json as well) will all the parsed information.
+This is a micro utility that accepts a chat message via CLI and parse the names, emoticons, links and titles of the website. This will return a string (a valid json as well) will all the parsed information.
 
 SETUP
 =====
