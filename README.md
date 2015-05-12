@@ -21,7 +21,7 @@ RUN UNIT TESTS
 
 RUN
 ===
-python run.py -M/--msg "<chat message>"
+python run.py -M/--msg "chat message"
 
 SAMPLE CONFIG
 =============
