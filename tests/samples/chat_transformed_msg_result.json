@@ -1,0 +1,17 @@
+{
+  "mentions": [
+    "Bob",
+    "John",
+    "Jack"
+  ],
+  "emoticons": [
+    "megusta",
+    "coffee"
+  ],
+  "links": [
+    {
+      "url": "http://www.google.com",
+      "title": "Google"
+    }
+  ]
+}

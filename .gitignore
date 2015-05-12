@@ -1,0 +1,23 @@
+*.py[cod]
+.Python
+*.iml
+
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+bin
+lib
+.idea
+
+# Unit test / coverage reports
+.coverage
+coverage.xml
+.tox
+nosetests.xml
+
+# Mr Developer
+.project
+.pydevproject
