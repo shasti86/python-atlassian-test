@@ -37,7 +37,7 @@ ABOUT THE CODE
 
 FUTURE ENHANCEMENTS
 ===================
-To build a nice UI (using AngularJS or JINJA2 with Bottle API) to display the real time chat reports with MongoDB as the backed data store. 
+There is a possibility to build a decentUI (using AngularJS or JINJA2 with Bottle API) to display the real time chat reports with MongoDB as the backed data store. 
 
 CONTACT
 =======
